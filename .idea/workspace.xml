@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="868c43ea-85d3-41c9-88c6-56a161dad0be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j4y1qOSxyXSpGEv3FPaN4atPvh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Runner.testContactInfo">
+    <configuration name="Runner.Question1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Osedea_Automation" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="METHOD_NAME" value="Question1" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.checkCareerForQaAutomationPosition" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Osedea_Automation" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="METHOD_NAME" value="checkCareerForQaAutomationPosition" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.testContactInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Osedea_Automation" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="METHOD_NAME" value="testContactInfo" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utilities.jewhvf" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Osedea_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.Utilities" />
+      <option name="METHOD_NAME" value="jewhvf" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Runner.testContactInfo" />
+        <item itemvalue="TestNG.Utilities.jewhvf" />
+        <item itemvalue="TestNG.Runner.checkCareerForQaAutomationPosition" />
+        <item itemvalue="TestNG.Runner.Question1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="868c43ea-85d3-41c9-88c6-56a161dad0be" name="Default Changelist" comment="" />
+      <created>1603077446026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603077446026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1380" y="-157" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603079976726">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state x="1380" y="-157" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.736/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079976726" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom" timestamp="1603080290969">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/0.23.1280.731/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603078621282" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.23.1280.732/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080290969" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.23.1280.733/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079515232" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.23.1280.734/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079554381" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.23.1280.735/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079823104" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.23.1280.736/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080031878" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center" timestamp="1603080290958">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.center/0.23.1280.731/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603078621280" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.23.1280.732/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080290958" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.23.1280.733/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079515230" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.23.1280.734/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079554379" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.23.1280.735/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079823103" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.23.1280.736/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080031875" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left" timestamp="1603080290954">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.left/0.23.1280.731/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603078621279" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.23.1280.732/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080290954" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.23.1280.733/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079515228" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.23.1280.734/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079554378" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.23.1280.735/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079823102" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.23.1280.736/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080031874" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right" timestamp="1603080290966">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.right/0.23.1280.731/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603078621281" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.23.1280.732/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080290966" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.23.1280.733/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079515231" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.23.1280.734/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079554380" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.23.1280.735/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603079823103" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.23.1280.736/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080031876" />
+    <state x="1905" y="116" width="670" height="675" key="run.anything.popup" timestamp="1603080291049">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state x="1905" y="116" width="670" height="675" key="run.anything.popup/0.23.1280.732/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603080291049" />
+    <state x="1905" y="116" width="670" height="675" key="run.anything.popup/0.23.1280.733/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1603078747491" />
+  </component>
+</project>
